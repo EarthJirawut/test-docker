@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jirawut127/test-docker-server:demo
+          tags: jirawut127/test-docker-server:latest
